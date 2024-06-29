@@ -32,7 +32,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('../../imgcatalog/public/assest/img/flower.jpg');
+    background-image: url('../public/assest/img/flower.jpg');
     width: 100%;
     min-height: 300px;
     background-size: cover; 
@@ -43,7 +43,7 @@ a {
     display: flex;
     align-items: center;
     justify-content: center;
-    background-image: url('../../imgcatalog/public/assest/img/temp11.png');
+    background-image: url('../public/assest/img/temp11.png');
     width: 100%;
     min-height: 300px;
     background-size: cover; 
